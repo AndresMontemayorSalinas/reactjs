@@ -66,3 +66,18 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+GitOps Documentation
+
+A comprehensive mindset for any contributors.
+    1. Remember the guidelines!
+    2. Understand and use repository workflow!
+    3. Never push branch without a naming convention in place!
+    4. Understand and keep a branching strategy
+    5. Use a pull request process before submitting new code!
+    6. If you are part of Release Management, use semantic versioning for your components!
+    7. Track a changelog file for your new project
+    8. Do not forget to add in your code, wherever is possible, COPYRIGHT information!
+    9. Git Cheatsheets, start working with GIT, a comprehensive command list, made easy to understand!
+    10. More Readings
+    11. Authors
